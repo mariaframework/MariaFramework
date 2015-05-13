@@ -1,0 +1,29 @@
+{
+  "name": "mariaframework/mf-routing",
+  "description": "Pacote Maria Framework Routing - Responsável pelas as rotas",
+  "license": "BSD-3-Clause",
+  "keywords": [
+    "mf",
+    "maria framework",
+    "Maria Framework",
+    "Maria FW",
+    "routing",
+    "php routing"
+  ],
+  "homepage": "https://github.com/mariaframework/MariaFramework",
+  "autoload": {
+    "psr-0": {
+      "Maria\\Routing\\": ""
+    }
+  },
+  "target-dir": "Maria/Routing",
+  "authors": [
+    {
+      "name": "José Tiago",
+      "email": "mariaframework@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.17"
+  }
+}
